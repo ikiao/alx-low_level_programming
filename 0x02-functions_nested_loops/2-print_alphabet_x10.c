@@ -22,9 +22,3 @@ void print_alphabet_x10(void)
 		i++;
 	}
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-
